@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media only all and (min-width: 481px) {
+
+	dd img {
+		float: left;
+		margin: 0.5em 1em 1em 0.1em;
+	}
+
+	dt, h2 {
+		clear: both;
+	}
+
+}
